@@ -1,16 +1,45 @@
 ## Hi there 👋
+<--
+Hi there, I'm Keerthi 👋
 
-<!--
-**keerthi990217/keerthi990217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA (Master of Computer Applications) Student
+💻 Aspiring Software Developer
+🌱 Passionate about coding, technology, and learning new skills.
 
-Here are some ideas to get you started:
+👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Currently pursuing MCA.
+
+☕ Interested in Java programming.
+
+💻 Knowledge of C programming.
+
+🌐 Familiar with HTML and CSS.
+
+🚀 Interested in software and web development.
+
+📚 Always excited to learn new technologies.
+
+🛠️ Skills & Technologies
+
+Languages: Java, C
+
+Web Development: HTML, CSS
+
+Currently Exploring: JavaScript and more technologies.
+
+🎯 Goals
+
+Improve my programming skills.
+
+Develop real-world projects.
+
+Become a skilled software developer.
+
+Contribute to open-source projects.
+
+📫 Connect With Me
+
+GitHub: keerthi990217
+
+⭐ Thanks for visiting my profile! Happy Coding! 💻-->
